@@ -2,7 +2,7 @@
   "name": "ZBarSDK",
   "version": "1.3.1",
   "platforms": {
-    "ios": null
+    "ios": 7.0
   },
   "license": "GNU LGPL 2.1",
   "summary": "QR and barcode scan library.",
