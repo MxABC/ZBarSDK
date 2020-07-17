@@ -637,11 +637,11 @@ AVSessionPresetForUIVideoQuality (UIImagePickerControllerQualityType quality)
                done: (NSNumber*) done
             context: (void*) ctx
 {
-    if([tag isEqualToString: @"ZBarHelp"] && helpController) {
-        [helpController.view removeFromSuperview];
-        [helpController release];
-        helpController = nil;
-    }
+//    if([tag isEqualToString: @"ZBarHelp"] && helpController) {
+//        [helpController.view removeFromSuperview];
+//        [helpController release];
+//        helpController = nil;
+//    }
 }
 
 

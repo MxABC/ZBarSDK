@@ -168,8 +168,8 @@ CGImageRef UIGetScreenImage(void);
     }
     [infoBtn release];
     infoBtn = nil;
-    [help release];
-    help = nil;
+//    [help release];
+//    help = nil;
 }
 
 - (void) viewDidUnload
