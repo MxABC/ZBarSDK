@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-    s.name         = 'ZBarSDK'
+    s.name         = 'LBXZBarSDK'
     s.version      = '1.3.1'
-    s.summary      = 'ZBarSDK'
+    s.summary      = 'LBXZBarSDK'
     s.homepage     = 'https://github.com/MxABC/ZBarSDK'
     s.license      = 'MIT'
     s.authors      = {'MxABC' => 'lbxia20091227@foxmail.com'}

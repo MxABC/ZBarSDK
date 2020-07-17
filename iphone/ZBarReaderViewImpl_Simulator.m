@@ -21,8 +21,8 @@
 //  http://sourceforge.net/projects/zbar
 //------------------------------------------------------------------------
 
-#import <ZBarSDK/ZBarReaderView.h>
-#import <ZBarSDK/ZBarReaderViewController.h>
+#import <LBXZBarSDK/ZBarReaderView.h>
+#import <LBXZBarSDK/ZBarReaderViewController.h>
 
 #define MODULE ZBarReaderView
 #import "debug.h"

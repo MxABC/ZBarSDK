@@ -21,7 +21,7 @@
 //  http://sourceforge.net/projects/zbar
 //------------------------------------------------------------------------
 
-#import <ZBarSDK/ZBarSymbol.h>
+#import <LBXZBarSDK/ZBarSymbol.h>
 
 @implementation ZBarSymbol
 

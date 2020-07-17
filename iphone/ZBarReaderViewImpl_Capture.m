@@ -24,8 +24,8 @@
 #import <AVFoundation/AVFoundation.h>
 #import <CoreMedia/CoreMedia.h>
 #import <CoreVideo/CoreVideo.h>
-#import <ZBarSDK/ZBarReaderView.h>
-#import <ZBarSDK/ZBarCaptureReader.h>
+#import <LBXZBarSDK/ZBarReaderView.h>
+#import <LBXZBarSDK/ZBarCaptureReader.h>
 
 #define MODULE ZBarReaderView
 #import "debug.h"
